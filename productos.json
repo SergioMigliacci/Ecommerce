@@ -1,0 +1,14 @@
+[
+    {"id": 0, "nombre": "Armadura para gallo", "cantidad": 1, "desc": "Incrementa la defensa de su portador +2845", "precio": 5000, "tipoDeObjeto": "armor", "img": "./img/armadura.jpeg", "stock": 5},
+    {"id": 1, "nombre": "Anteojos facheros", "cantidad": 1, "desc": "Permite detectar a los enemigos en sigilo", "precio": 1100, "tipoDeObjeto": "accesories", "img": "./img/anteojos.jpeg", "stock": 10},
+    {"id": 2, "nombre": "Brazos de batalla", "cantidad": 1, "desc": "Incrementa la fuerza y aguante del portador un 150%", "precio": 3500, "tipoDeObjeto": "weapon", "img": "./img/brazos.jpeg", "stock": 10},
+    {"id": 3, "nombre": "Jabali del wow", "cantidad": 1, "desc": "Matalo para obtener 2 puntos de experiencia", "precio": 1000, "tipoDeObjeto": "accesories", "img": "./img/jabali.jpg", "stock": 10},
+    {"id": 4, "nombre": "Alas para gatos", "cantidad": 1, "desc": "Reduce la velocidad de caida un 90%", "precio": 2000, "tipoDeObjeto": "accesories", "img": "./img/alas.jpg", "stock": 10},
+    {"id": 5, "nombre": "Full Plate Armor", "cantidad": 1, "desc": "Set completo: incrementa la defensa +7455", "precio": 7500, "tipoDeObjeto": "armor", "img": "./img/armor.jfif", "stock": 10},
+    {"id": 6, "nombre": "Gold Armor", "cantidad": 1, "desc": "Set completo: incrementa la defensa +9475", "precio": 11500, "tipoDeObjeto": "armor", "img": "./img/goldArmor.jpg", "stock": 10},
+    {"id": 7, "nombre": "Espada de una mano", "cantidad": 1, "desc": "Espada para tanke: incrementa el ataque en +488", "precio": 5500, "tipoDeObjeto": "weapon", "img": "./img/espada.webp", "stock": 10},
+    {"id": 8, "nombre": "Platinum Shield", "cantidad": 1, "desc": "Incrementa la defensa +2800, chances de bloqueo 70%", "precio": 9000, "tipoDeObjeto": "armor", "img": "./img/escudo.jfif", "stock": 10},
+    {"id": 9, "nombre": "Arco Largo", "cantidad": 1, "desc": "Incrementa el ataque +340, requiere flechas", "precio": 4000, "tipoDeObjeto": "weapon", "img": "./img/arco.webp", "stock": 10},
+    {"id": 10, "nombre": "Arco de plastico", "cantidad": 1,"desc": "Incrementa el ataque +1, requiere flecha de sopapa", "precio": 1700, "tipoDeObjeto": "weapon", "img": "./img/arcoJuguete.webp", "stock": 10},
+    {"id": 11, "nombre": "Piedra", "cantidad": 1, "desc": "Incrementa el ataque +55, se puede revolear muy fuerte", "precio": 700, "tipoDeObjeto": "accesories", "img": "./img/piedra.jpg", "stock": 10}
+]
